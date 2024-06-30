@@ -30,13 +30,13 @@ TC011 - Testes de funcionalidades da aplicação
 - Botão 'Criar' só abre com dois clicks
 - Cair sem preencher tudo
 - Click abrir preencher e salvar
-
-
-
-
-.
 - Clicar Sair
 - Clica Editar e Excluir
 - Clica Carregar página 
 - Fim dos testes 
 
+
+
+
+
+.
