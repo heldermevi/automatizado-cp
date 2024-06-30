@@ -1,4 +1,16 @@
 Des-02-Grp-02-Faa-2024.2
+Faculdade: UNIFAA  
+
+Matéria : SQA - Software Quality Assurance 
+
+Professor: Weberson Rodrigues
+
+Alunos: 
+Pedro Henrique Campos - ADS - E34842   
+Hélder Medeiros - Eng Soft - E34614 
+Thiago Silvério - ADS - E33250
+Ramón Abreu - ADS - E60591
+Renato - Matrícula - Curso
 
 Testes relacionados ao login:
 
@@ -18,7 +30,13 @@ TC011 - Testes de funcionalidades da aplicação
 - Botão 'Criar' só abre com dois clicks
 - Cair sem preencher tudo
 - Click abrir preencher e salvar
+
+
+
+
+.
 - Clicar Sair
 - Clica Editar e Excluir
 - Clica Carregar página 
 - Fim dos testes 
+
