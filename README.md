@@ -36,9 +36,9 @@ Professor:
 Weberson Rodrigues
 
 Grupo 02 formado por:
-Pedro Henrique Campos - ADS - E34842,
-Hélder Medeiros -  Eng Soft - E34614, 
-Thiago Silvério - Matricula?? - ADS
+Pedro Henrique Campos - ADS - E34842
+Hélder Medeiros -  Eng Soft - E34614 
+Thiago Silvério - ADS - E33250  
+Ramón Abreu - ADS - E60591
 Renato - curso - matricula
-nome - curso - matricula 
 
