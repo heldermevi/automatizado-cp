@@ -6,11 +6,12 @@ Matéria : SQA - Software Quality Assurance
 Professor: Weberson Rodrigues
 
 Alunos: 
-Pedro Henrique Campos - ADS - E34842   
-Hélder Medeiros - Eng Soft - E34614 
-Thiago Silvério - ADS - E33250
-Ramón Abreu - ADS - E60591
-Renato - Matrícula - Curso
+- Carlos Renato Cardoso da Silva - ADS - E33019
+- Hélder Medeiros - Eng Soft - E34614 
+- Pedro Henrique Campos - ADS - E34842   
+- Ramón Abreu - ADS - E60591
+- Thiago Silvério - ADS - E33250
+
 
 Testes relacionados ao login:
 
